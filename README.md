@@ -5,7 +5,7 @@ The Quick Start project illustrates minimal steps to integrate the SDK into your
 
 ## Contact TPS
 
-Contact support.tps@qti.qualcomm.com to request access to the SDK and get the API key.
+To obtain an evaluation account and API key, visit [my.skyhook.com](https://my.skyhook.com/) and sign up. The SDK can be downloaded from the [Qualcomm Terrestrial Positioning Service software page](https://www.qualcomm.com/internet-of-things/solutions/qualcomm-terrestrial-positioning-service/software). For additional support, contact support.tps@qti.qualcomm.com.
 
 ## Add SDK to your project
 
