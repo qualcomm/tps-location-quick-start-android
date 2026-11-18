@@ -91,7 +91,7 @@ xps.getLocation(null, WPSStreetAddressLookup.WPS_NO_STREET_ADDRESS_LOOKUP, false
 
 ## Further Read
 
-Please refer to the [full SDK guide](https://quic.github.io/tps-location-sdk-android/) for more information.
+Please refer to the [full SDK guide](https://qualcomm.github.io/tps-location-sdk-android/) for more information.
 
 # License
 ![License](https://img.shields.io/static/v1?label=license&message=CC-BY-ND-4.0&color=green)
